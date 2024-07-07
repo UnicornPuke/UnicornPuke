@@ -1,6 +1,6 @@
 # UnicornPuke
 
-```
+```python
 if UnicornPuke.is_stupid() == True:
   print(True)
 
@@ -13,3 +13,5 @@ True
 Just a kid making projects for fun.
 
 E-Mail: adam.haspel@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnicornPuke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
