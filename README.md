@@ -11,3 +11,5 @@ True
 ```
 
 Just a kid making projects for fun.
+
+E-Mail: adam.haspel@gmail.com
